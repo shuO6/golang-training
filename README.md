@@ -1,6 +1,7 @@
 # golang-training
 
 240524
+
 *gitの勉強をした
 
 ***
@@ -31,4 +32,13 @@ ssh key周りの作業をした
 ***
 github上にpullした時のアカウントがおかしい。どのように対処すればいいか全くわからない
 
-git configを一致させれば、githubへのpullがgithubアカウントと一致させることができる
+→git configを一致させれば、githubへのpullがgithubアカウントと一致させることができる
+
+***
+remoteからclone
+
+localでcommit
+
+remoteにpush
+
+remoteからpull
