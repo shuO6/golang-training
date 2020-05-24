@@ -3,7 +3,9 @@
 240524
 *gitの勉強をした
 
-***todolist
+***
+todolist
+
 ssh key周りの確認
 
 
